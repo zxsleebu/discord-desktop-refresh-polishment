@@ -20,7 +20,7 @@ Polishes new discord UI and makes it even more beautiful
         <img src="https://github.com/user-attachments/assets/5ad45827-014f-4555-9dd9-778008e63d49" alt="Old" width="500px"/>
       </td>
       <td align="center">
-        <img  src="https://github.com/user-attachments/assets/2014fca2-cb8c-4ac5-8987-5cce7174bb56" alt="New" width="500px"/>
+        <img  src="https://github.com/user-attachments/assets/c3e50b2c-33e9-413a-a04b-58aa0529392d" alt="New" width="500px"/>
       </td>
     </tr>
   </tbody>
