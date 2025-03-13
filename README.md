@@ -31,4 +31,4 @@
 - Fixed 1px padding on top of the dialogues and calls (wth discord how could you mess this up)
 
 ### Ask for more
-Create issue about your wanted addition and i will make it happen (if it's really cool)
+Create an issue about your wanted addition and i will make it happen (if it's really cool)
