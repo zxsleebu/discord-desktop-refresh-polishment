@@ -1,5 +1,5 @@
 # BetterDiscord Theme for Discord Desktop Visual Refresh
-Polishes new discord UI and makes it even more beautiful
+Polishes new Discord UI and makes it even more beautiful
 
 ## Changes:
 
