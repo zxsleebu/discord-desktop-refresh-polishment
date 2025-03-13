@@ -1,0 +1,69 @@
+.visual-refresh {
+    .panels_c48ade {
+        backdrop-filter: blur(20px);
+        background: #202024bb!important;
+    }
+    .scroller__99e7c {
+        margin-bottom: 0px!important;
+    }
+    .wrapper_ef3116 {
+        margin-bottom: 0px!important;
+    }
+    .wrapper_ef3116 ul .tutorialContainer__650eb ~ div{
+        .wrapper_cc5dd2 {
+            margin: 0 auto;
+        }
+        display: block;
+    }
+    .wrapper_ef3116 ul .tutorialContainer__650eb ~ div::after{
+        content: "";
+        display: block;
+        clear: both;
+        background-color: transparent!important;
+        width: 100%;
+        min-height: calc(var(--custom-app-panels-height, 0) + 8px);
+        transition: min-height .2s ease-in-out;
+    }
+    .sidebar_c48ade:after {
+        background-color: transparent!important;
+    }
+    .callContainer_cb9592 {
+        border-top: 0px!important
+    }
+    .panel__5dec7 {
+        background-color: #24242977!important;
+    }
+    
+    button[aria-label="Transfer to Console"] {
+        display: none!important;
+    }
+
+    .edgeControls_bfe55a:has(button[aria-label="Transfer to Console"]) .divider__68198 {
+        display: none!important;
+    }
+    
+    .container__675e5:has(div[aria-label="Start An Activity"]) {
+        display: none!important;
+    }
+    
+    .container__675e5:has(div[aria-label="Start An Activity"]) ~ .sectionDivider__35e86 {
+        display: none!important;
+    }
+    
+    ul[aria-label="Direct Messages"] .sectionDivider__35e86 { 
+        background-color: transparent!important;
+        margin-bottom: 0px!important;
+    }
+    
+    .recentsIcon_c99c29 ~ a{
+        display: none
+    }
+    
+    .container_e45859:has(a[href="/shop"]) {
+        display: none!important;
+    }
+    
+    .container_e45859:has(a[href="/store"]) {
+        display: none!important;
+    }
+}
